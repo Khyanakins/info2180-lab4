@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.body{
+  background-color: #d7d9e1;
+}
+
+.banner{
+  background-color: rgb(200, 152, 255);
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: #ffffff;
+  padding: 20px;
+}
+
+.banner h1{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.form{
+  padding-top: 30px;
+  padding-left:15%;
+}
+
+input[type=text] {
+  width: 60%;
+  padding: 12px;
+  margin: 10px 0;
+}
+
+#Search{
+  background-color: rgb(255, 70, 150);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #ffffff;
+  padding: 11px 24px;
+  border-radius: 6px;
+}

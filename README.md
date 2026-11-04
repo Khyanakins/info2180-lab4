@@ -1,3 +1,1 @@
-# info2180-lab4
-
-This is Lab 4 for Khyana Panton.
+# AJAX Superheroes Starter Files
